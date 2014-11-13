@@ -19,6 +19,20 @@ This is a work in progress to make a more user friendly version of the informati
 - Add in option to limit transport types
 - Streaming data for station closure information
 
+###To run locally for development purposes:
+
+You can use the simple HTTP server package in Node.js.
+
+To install:
+
+<pre><code>npm install http-server -g</code></pre>
+
+To run:
+
+<pre><code>http-server .</code></pre>
+
+(For other options in your favorite language check [here](https://github.com/mrdoob/three.js/wiki/How-to-run-things-locally))
+
 
 ###Dependencies:
 - [jQuery](http://jquery.com/)
