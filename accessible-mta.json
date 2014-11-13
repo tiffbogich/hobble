@@ -1,10 +1,110 @@
 {
-  "stations":[
-    {"key":"1","stationName":"14 St", "lat":"40.739885", "lon":"-74.002573", "borough":"Manhattan", "lines":["A","C","E","L"], "description":"Elevator at northwest corner of 14th Street and Eighth Avenue","imageRef":"https://www.google.com/maps/place/8+Av/@40.739765,-74.0025814,3a,90y,10.32h,89.85t/data=!3m4!1e1!3m2!1sty7IPyuYj4DXLtftwMUhjg!2e0!4m7!1m4!3m3!1s0x89c259be8e8588b1:0x7f62d995d48be517!2s14+St!3b1!3m1!1s0x89c259be445ceb49:0xd4fae2a3d56c7a8a!6m1!1e1"},
-    {"key":"2","stationName":"14 St-Union Square", "lat":"40.734653", "lon":"-73.989946", "borough":"Manhattan", "lines":["L","N","Q","R"], "description":"Elevator at northeast corner of 14th Street and Park Avenue South (Union Square East)","imageRef":"https://www.google.com/maps/@40.7343207,-73.9896751,3a,75y,50.58h,78.23t/data=!3m4!1e1!3m2!1s0iTy4wo0v-mNkxt7l9Ha_Q!2e0!6m1!1e1"},
-    {"key":"3","stationName":"34 St-Herald Square", "lat":"40.749685", "lon":"-73.987944", "borough":"Manhattan", "lines":["B","D","F","M","N","Q","R"], "description":"Elevator at Herald Center building on west skeye of Broadway south of 34th Street","imageRef":"https://www.google.com/maps/place/34+St+-+Herald+Sq/@40.7495572,-73.9879198,3a,90y,309.86h,81.14t/data=!3m4!1e1!3m2!1sOFXg1qDdmC7VyvBLbLkYIw!2e0!4m6!1m3!3m2!1s0x89c259a938897f87:0x77a53418bbd56c17!2s34+St+-+Herald+Sq!3m1!1s0x89c259a938897f87:0x77a53418bbd56c17!6m1!1e1"},  
-    {"key":"4","stationName":"34 St-Penn Station 7th Ave", "lat":"40.751135", "lon":"-73.991110", "borough":"Manhattan", "lines":["1","2","3"], "description":"Elevator on south skeye of 34th Street west of Seventh Avenue at LIRR entrance","imageRef":"https://www.google.com/maps/place/W+34+St%2F7+Av/@40.7511775,-73.9910747,3a,90y,206h,90t/data=!3m4!1e1!3m2!1sgcPdlrcX33uVzoUyBuBF1A!2e0!4m6!1m3!3m2!1s0x89c259ae15b2adcb:0x7955420634fd7eba!2sPennsylvania+Station!3m1!1s0x89c259ae832e17dd:0x308e787f50ab02a8!6m1!1e1"},  
-    {"key":"5","stationName":"34 St-Penn Station 8th Ave", "lat":"40.751916", "lon":"-73.993410", "borough":"Manhattan", "lines":["A","C","E"], "description":"Elevator at southeast corner of 34th Street and Eighth Avenue to uptown local  C Line Symbol E Line Symbol platform level. For other service, after paying fare use elevator # 226 to mezzanine level and take elevator # 227 for uptown and downtown A Line Symbol service or elevator # 228 for downtown C Line Symbol E Line Symbol service","imageRef":"https://www.google.com/maps/@40.7521311,-73.9933246,3a,75y,195.34h,78.85t/data=!3m4!1e1!3m2!1sK3_OTpoH-6fgsx1KmAaGyA!2e0"},  
-    {"key":"6","stationName":"42 St-Port Authority Bus Terminal", "lat":"40.757112", "lon":"-73.990579", "borough":"Manhattan", "lines":["A","C","E"], "description":"Elevator inskeye north wing of bus terminal (Eighth Avenue between 41st Street and 42nd Street) near airport bus ticket office. Note: Passageway to Times-Sq-42 St subway station is not accessible.","imageRef":"https://www.google.com/maps/place/Port+of+NY+Authority/@40.7567181,-73.9901655,3a,90y,313.69h,87.95t/data=!3m4!1e1!3m2!1sqlIkTIyKM0hknRER5sz2eg!2e0!4m18!1m15!4m14!1m6!1m2!1s0x89c25853174d55e3:0x99ced942dc90b3ac!2sW+42nd+St,+New+York,+NY+10036!2m2!1d-73.9917031!2d40.758034!1m6!1m2!1s0x89c25853683a3909:0x5a24a3c54a275af8!2sPort+of+NY+Authority,+625+8th+Ave+%23101,+New+York,+NY+10018!2m2!1d-73.9905!2d40.756871!3m1!1s0x89c25853683a3909:0x5a24a3c54a275af8!6m1!1e1"},  
-    {"key":"7","stationName":"47-50 Sts-Rockefeller Ctr", "lat":"40.759350", "lon":"-73.981007", "borough":"Manhattan", "lines":["B","D","F","M"], "description":"Elevator at the northwest corner of 6th Avenue and 49 Street.","imageRef":"https://www.google.com/maps/@40.7592646,-73.9808731,3a,75y,219.45h,68.44t/data=!3m4!1e1!3m2!1sw_NZnmzfeOedrc0Ffzgu7A!2e0!6m1!1e1"}  
-]}
+    "stations": [
+        {
+            "key": "1",
+            "stationName": "14 St",
+            "lat": "40.739885",
+            "lon": "-74.002573",
+            "borough": "Manhattan",
+            "lines": [
+                "A",
+                "C",
+                "E",
+                "L"
+            ],
+            "description": "Elevator at northwest corner of 14th Street and Eighth Avenue",
+            "imageRef": "https://www.google.com/maps/place/8+Av/@40.739765,-74.0025814,3a,90y,10.32h,89.85t/data=!3m4!1e1!3m2!1sty7IPyuYj4DXLtftwMUhjg!2e0!4m7!1m4!3m3!1s0x89c259be8e8588b1:0x7f62d995d48be517!2s14+St!3b1!3m1!1s0x89c259be445ceb49:0xd4fae2a3d56c7a8a!6m1!1e1"
+        },
+        {
+            "key": "2",
+            "stationName": "14 St-Union Square",
+            "lat": "40.734653",
+            "lon": "-73.989946",
+            "borough": "Manhattan",
+            "lines": [
+                "L",
+                "N",
+                "Q",
+                "R"
+            ],
+            "description": "Elevator at northeast corner of 14th Street and Park Avenue South (Union Square East)",
+            "imageRef": "https://www.google.com/maps/@40.7343207,-73.9896751,3a,75y,50.58h,78.23t/data=!3m4!1e1!3m2!1s0iTy4wo0v-mNkxt7l9Ha_Q!2e0!6m1!1e1"
+        },
+        {
+            "key": "3",
+            "stationName": "34 St-Herald Square",
+            "lat": "40.749685",
+            "lon": "-73.987944",
+            "borough": "Manhattan",
+            "lines": [
+                "B",
+                "D",
+                "F",
+                "M",
+                "N",
+                "Q",
+                "R"
+            ],
+            "description": "Elevator at Herald Center building on west skeye of Broadway south of 34th Street",
+            "imageRef": "https://www.google.com/maps/place/34+St+-+Herald+Sq/@40.7495572,-73.9879198,3a,90y,309.86h,81.14t/data=!3m4!1e1!3m2!1sOFXg1qDdmC7VyvBLbLkYIw!2e0!4m6!1m3!3m2!1s0x89c259a938897f87:0x77a53418bbd56c17!2s34+St+-+Herald+Sq!3m1!1s0x89c259a938897f87:0x77a53418bbd56c17!6m1!1e1"
+        },
+        {
+            "key": "4",
+            "stationName": "34 St-Penn Station 7th Ave",
+            "lat": "40.751135",
+            "lon": "-73.991110",
+            "borough": "Manhattan",
+            "lines": [
+                "1",
+                "2",
+                "3"
+            ],
+            "description": "Elevator on south skeye of 34th Street west of Seventh Avenue at LIRR entrance",
+            "imageRef": "https://www.google.com/maps/place/W+34+St%2F7+Av/@40.7511775,-73.9910747,3a,90y,206h,90t/data=!3m4!1e1!3m2!1sgcPdlrcX33uVzoUyBuBF1A!2e0!4m6!1m3!3m2!1s0x89c259ae15b2adcb:0x7955420634fd7eba!2sPennsylvania+Station!3m1!1s0x89c259ae832e17dd:0x308e787f50ab02a8!6m1!1e1"
+        },
+        {
+            "key": "5",
+            "stationName": "34 St-Penn Station 8th Ave",
+            "lat": "40.751916",
+            "lon": "-73.993410",
+            "borough": "Manhattan",
+            "lines": [
+                "A",
+                "C",
+                "E"
+            ],
+            "description": "Elevator at southeast corner of 34th Street and Eighth Avenue to uptown local  C Line Symbol E Line Symbol platform level. For other service, after paying fare use elevator # 226 to mezzanine level and take elevator # 227 for uptown and downtown A Line Symbol service or elevator # 228 for downtown C Line Symbol E Line Symbol service",
+            "imageRef": "https://www.google.com/maps/@40.7521311,-73.9933246,3a,75y,195.34h,78.85t/data=!3m4!1e1!3m2!1sK3_OTpoH-6fgsx1KmAaGyA!2e0"
+        },
+        {
+            "key": "6",
+            "stationName": "42 St-Port Authority Bus Terminal",
+            "lat": "40.757112",
+            "lon": "-73.990579",
+            "borough": "Manhattan",
+            "lines": [
+                "A",
+                "C",
+                "E"
+            ],
+            "description": "Elevator inskeye north wing of bus terminal (Eighth Avenue between 41st Street and 42nd Street) near airport bus ticket office. Note: Passageway to Times-Sq-42 St subway station is not accessible.",
+            "imageRef": "https://www.google.com/maps/place/Port+of+NY+Authority/@40.7567181,-73.9901655,3a,90y,313.69h,87.95t/data=!3m4!1e1!3m2!1sqlIkTIyKM0hknRER5sz2eg!2e0!4m18!1m15!4m14!1m6!1m2!1s0x89c25853174d55e3:0x99ced942dc90b3ac!2sW+42nd+St,+New+York,+NY+10036!2m2!1d-73.9917031!2d40.758034!1m6!1m2!1s0x89c25853683a3909:0x5a24a3c54a275af8!2sPort+of+NY+Authority,+625+8th+Ave+%23101,+New+York,+NY+10018!2m2!1d-73.9905!2d40.756871!3m1!1s0x89c25853683a3909:0x5a24a3c54a275af8!6m1!1e1"
+        },
+        {
+            "key": "7",
+            "stationName": "47-50 Sts-Rockefeller Ctr",
+            "lat": "40.759350",
+            "lon": "-73.981007",
+            "borough": "Manhattan",
+            "lines": [
+                "B",
+                "D",
+                "F",
+                "M"
+            ],
+            "description": "Elevator at the northwest corner of 6th Avenue and 49 Street.",
+            "imageRef": "https://www.google.com/maps/@40.7592646,-73.9808731,3a,75y,219.45h,68.44t/data=!3m4!1e1!3m2!1sw_NZnmzfeOedrc0Ffzgu7A!2e0!6m1!1e1"
+        }
+    ]
+}
+\\\\S
