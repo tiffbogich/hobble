@@ -1,10 +1,29 @@
 $(document).ready(function(){
 
+  //center basic map on NYC. this works.
+  var map;
+  map = new GMaps({
+    div: '#map',
+    zoom: 13,
+    lat: 40.750799,
+    lng: -73.993628
+  });
+
   $.getJSON('accessible-mta.json')
-    .done(function (data) {
+    .done(function (data){
       $.each(data.stations, function()
       {
-        console.log(this.stationName);
+        map.addMarker({
+          lat: this.lat,
+          lng: this.lon,
+          title: this.stationName,
+          infoWindow:{
+            content:'<p>'+this.stationName+'</p>'
+          },
+          click: function(){
+            $("aside").show();
+          }
+        });
       });  
     })
     .fail(function (xhr) {
@@ -17,34 +36,27 @@ $(document).ready(function(){
     $("aside").hide();
   });
 
-  //center basic map on NYC. this works.
-  var map;
-  map = new GMaps({
-    div: '#map',
-    zoom: 13,
-    lat: 40.750799,
-    lng: -73.993628
-  });
+
 
   //add pins for specific stations. This works (not looped yet)
-  map.addMarker({
-    lat: 40.750799, 
-    lng: -73.993628,
-    title: 'Penn Station',
-    infoWindow: {
-      content: '<p>Penn Station</p>'
-    },
-    click: function(e){
-      $("aside").show();
-    }
-  });
+  // map.addMarker({
+  //   lat: 40.750799, 
+  //   lng: -73.993628,
+  //   title: 'Penn Station',
+  //   infoWindow: {
+  //     content: '<p>Penn Station</p>'
+  //   },
+  //   click: function(e){
+  //     $("aside").show();
+  //   }
+  // });
   
-  map.addMarker({
-    lat: 40.757758, 
-    lng: -73.989856,
-    title: 'Times Square',
-    infoWindow: {
-      content: '<p>Times Square</p>'
-    }
-  });  
+  // map.addMarker({
+  //   lat: 40.757758, 
+  //   lng: -73.989856,
+  //   title: 'Times Square',
+  //   infoWindow: {
+  //     content: '<p>Times Square</p>'
+  //   }
+  // });  
 });
