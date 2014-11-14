@@ -8,7 +8,7 @@
     <link rel="icon" href="img/crutches.ico">
     <link rel="stylesheet" type="text/css" href="css/reset.css">
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css?v={1}">
   </head>
   <body>
     <header>
@@ -21,6 +21,7 @@
     </header>
     <main>
       <div class="section-wrapper">
+        <p id="instructions">Click on a marker to view station accessibility info</p>
         <section id="map">
           <!-- <img src="img/NYCstatic.jpg" > -->
         </section>
@@ -30,8 +31,10 @@
       <div class="section-wrapper" id="station-info">
         <div id="circle">x</div>
         <!-- <img id="close" src="img/close-icon.png"> -->
-        <div id="panorama">
-          <!-- <img src="img/14th-street.png"> -->
+        <div id="pano-container">
+          <div id="panorama">
+            <!-- <img src="img/14th-street.png"> -->
+          </div>
         </div>
         <div id="details">
           <h3><span id="station-name">14 St</span></h3>

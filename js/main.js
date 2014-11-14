@@ -1,5 +1,4 @@
 $(document).ready(function(){
-       
   //center basic map on NYC. this works.
   var map;
   map = new GMaps({
@@ -23,6 +22,7 @@ $(document).ready(function(){
           },
           //on click show extra station info below corresponding to the marker
           click: function(){
+            $('#instructions').css('text-indent','-9999px');
             $('aside').show(400);
             $('#station-name').html(station.stationName);
             $('#borough').html(station.borough);

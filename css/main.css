@@ -82,16 +82,19 @@ header nav a{
 /********************/
 
 main{
-  margin-top:140px;
-  margin-bottom:20px;
+  margin-top:130px;
+  margin-bottom:80px;
+}
+#instructions{
+  text-align: center;
+  font-weight:200;
 }
 
 #map {
   border: 0px solid black;
-  height: 400px;
+  height: 600px;
   width: 90%;
   margin:0 auto;
-
 }
 
 /***************/
@@ -104,8 +107,10 @@ aside{
   padding:2% 0;
   width:100%;
   display:none;
-  position:relative;
+  position:absolute;
   overflow: hidden;
+  bottom:50px;
+  left:0;
 
 }
 #station-info{
@@ -113,12 +118,16 @@ aside{
   margin:0 auto;
   overflow:hidden;
 }
-
-#panorama{
-  width: 30%;
+#pano-container{
+  width:300px;
+  overflow:hidden;
   margin:0 auto;
-  height:200px;
   padding:0 2% 0 0;
+  display:inline-block;
+  float:left;
+}
+#panorama{
+  height:200px;
 }
 
 div#details{
@@ -171,6 +180,9 @@ footer{
   text-align: center;
   overflow: hidden;
   font-size: 16px;
+  position:fixed;
+  bottom:0;
+  left:0;
 }
 
 footer a{
