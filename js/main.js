@@ -1,5 +1,5 @@
 $(document).ready(function(){
-
+       
   //center basic map on NYC. this works.
   var map;
   map = new GMaps({
@@ -8,11 +8,12 @@ $(document).ready(function(){
     lat: 40.750799,
     lng: -73.993628
   });
-
   $.getJSON('accessible-mta.json')
     .done(function (data){
       $.each(data.stations, function()
       {
+        var station = this;
+        //add markers to station locations
         map.addMarker({
           lat: this.lat,
           lng: this.lon,
@@ -20,8 +21,20 @@ $(document).ready(function(){
           infoWindow:{
             content:'<p>'+this.stationName+'</p>'
           },
+          //on click show extra station info below corresponding to the marker
           click: function(){
-            $("aside").show();
+            $('aside').show(400);
+            $('#station-name').html(station.stationName);
+            $('#borough').html(station.borough);
+            $('#notes').html(station.notes);
+            $('#lines').html(station.lines).css('letter-spacing','5px');
+            //add panorama images to the aside info
+            var panorama;
+            panorama = GMaps.createPanorama({
+              el:'#panorama',
+              lat: station.lat,
+              lng: station.lon
+            });
           }
         });
       });  
@@ -32,31 +45,8 @@ $(document).ready(function(){
     });
 
   //close aside window when 'x' is clicked. this works
-  $("#circle").click(function(){
-    $("aside").hide();
+  $('#circle').click(function(){
+    $('aside').hide();
   });
-
-
-
-  //add pins for specific stations. This works (not looped yet)
-  // map.addMarker({
-  //   lat: 40.750799, 
-  //   lng: -73.993628,
-  //   title: 'Penn Station',
-  //   infoWindow: {
-  //     content: '<p>Penn Station</p>'
-  //   },
-  //   click: function(e){
-  //     $("aside").show();
-  //   }
-  // });
-  
-  // map.addMarker({
-  //   lat: 40.757758, 
-  //   lng: -73.989856,
-  //   title: 'Times Square',
-  //   infoWindow: {
-  //     content: '<p>Times Square</p>'
-  //   }
-  // });  
 });
+

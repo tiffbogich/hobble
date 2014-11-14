@@ -114,11 +114,15 @@ aside{
   overflow:hidden;
 }
 
-#station-info img{
-  max-height:200px;
-  float:left;
+#panorama{
+  width: 30%;
+  margin:0 auto;
+  display:inline;
+  height:200px;
+  /*float:left;*/
   padding:0 2% 0 0;
 }
+
 div#details{
   margin-left:10px;
 
@@ -129,11 +133,14 @@ div#details{
   color:black;
   font-weight: bold;
 }
-
+#lines{
+  font-weight:bold;
+}
 aside p:last-of-type{
   padding-top:20px;
 }
 
+/*close button for aside window*/
 #circle{
   border-radius:50%;
   width: 15px;
