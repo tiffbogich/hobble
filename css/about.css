@@ -1,0 +1,118 @@
+body{
+   background-color: rgb(230,230,230);
+}
+h1#about-page{
+  font-size:20px;
+  text-transform: uppercase;
+  line-height:120px;
+}
+h1#about-page a{
+  font-size:15px;
+  text-align: left;
+  padding-left:5px;
+  padding-right:10px;
+  line-height:120px;
+}
+
+/******************/
+/*paper subsection*/
+/******************/
+
+.paper{
+  box-shadow: 0 5px 5px rgba(0,0,0,0.26);
+  background-color:white;
+  min-height:100px;
+  width:60%;
+  margin: 10px auto;
+  margin-bottom:50px;
+  z-index: 19;
+  overflow: hidden;
+}
+.paper:first-of-type{
+  max-height:400px;
+}
+
+#story{
+  margin: 0 auto;
+}
+#story h2{
+  text-align: center;
+  color:rgba(0,0,0,0.87);
+  font-size:20px;
+  padding-bottom:20px;
+  padding-top:20px;
+}
+
+#story p, #bottom-text p{
+  margin-bottom:20px;
+  font-size:15px;
+  text-align: justify;
+}
+
+#bottom-text p a{
+  color: #D81B60;
+}
+
+#story img{
+  float:left;
+  margin-right:0;
+  height:100%;
+}
+
+div#top{
+  background-color:#D81B60;
+  color:white;
+  overflow: hidden;
+}
+div#caption{
+  margin-top:20%;
+  height: 20%;
+  margin-bottom:20%;
+}
+
+div#caption h3{
+  text-align:center;
+}
+
+div#bottom-text{
+  float:none;
+  padding-left:2%;
+  padding-right:2%;
+}
+
+div#bottom-text h3{
+  font-size:20px;
+  color:rgba(0,0,0,0.57);
+  padding-bottom:20px;
+  padding-top:20px;
+  text-align: center;
+}
+
+
+/******************/
+/*footer styles   */
+/******************/
+
+footer{
+  z-index:29;
+}
+@media screen and (max-width: 55em) {
+     
+    header h1#about-page,
+    header h1#about-page a {
+        display: initial;
+        margin: 0 auto;
+        text-align: left;
+        padding-left:2%;
+    }
+    #hide {
+      display:none;
+    }
+    .paper{
+      width:90%;
+    }
+    #story img{
+      width:65%;
+    }
+}
+

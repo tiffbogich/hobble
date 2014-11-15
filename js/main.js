@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  //center basic map on NYC.
+  //center basic map on NYC
   var map;
   map = new GMaps({
     div: '#map',
@@ -8,7 +8,7 @@ $(document).ready(function(){
     lat: 40.750799,
     lng: -73.993628
   });
-
+  
   //map accessible stations
   $.getJSON('accessible-mta.json')
     .done(function (data){

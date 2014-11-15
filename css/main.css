@@ -14,6 +14,7 @@ body{
 
 a{
   text-decoration: none;
+  color:white;
 }
 
 /***************/
@@ -22,6 +23,7 @@ a{
 .section-wrapper{
   margin: 0 auto;
   max-width: 1170px;
+  
 }
 
 /***************/
@@ -51,7 +53,8 @@ header nav a{
   color:white;
 }
 
-header h1{
+header h1,
+header h1 a{
   font-size:40px;
   text-align: left;
   text-transform: uppercase;
@@ -84,7 +87,9 @@ header nav a{
 main{
   margin-top:130px;
   margin-bottom:80px;
+
 }
+
 #instructions{
   text-align: center;
   font-weight:200;
@@ -199,7 +204,7 @@ footer a, footer span{
   padding-right:25px;
 }
 
-a.about, span.about{
+a.bar, span.bar{
   float:left;
   margin-left:5%;
 
@@ -213,11 +218,15 @@ a.icon{
 @media screen and (max-width: 55em) {
      
     header h1,
-    header nav {
+    header h1 a {
         display: block;
         margin: 0 auto;
         text-align: center;
         float: none;
+    }
+    header h1 a{
+      text-decoration: none;
+      color:white;
     }
     #station-info{
       text-align: center;
@@ -233,7 +242,7 @@ a.icon{
  
 @media screen and (max-width: 32.25em) {
 
-    header h1 span, nav a{
+    header h1 span#second{
       display:none;
     }
     a.about{
