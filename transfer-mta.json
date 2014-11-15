@@ -1,0 +1,194 @@
+{
+    "transfers": [
+        {
+            "stationName": "Bergen St",
+            "lat": "40.686129",
+            "lon": "-73.990851",
+            "borough": "Brooklyn",
+            "lines": [
+                "F",
+                "G"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "Broadway Junction",
+            "lat": "40.678332",
+            "lon": "-73.905286",
+            "borough": "Brooklyn",
+            "lines": [
+                "A",
+                "C"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "Carroll St",
+            "lat": "40.680742",
+            "lon": "-73.994340",
+            "borough": "Brooklyn",
+            "lines": [
+                "F",
+                "G"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "Franklin Av",
+            "lat": "40.670684",
+            "lon": "-73.958150",
+            "borough": "Brooklyn",
+            "lines": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "Hoyt-Schermerhorn Sts",
+            "lat": "40.688500",
+            "lon": "-73.985055",
+            "borough": "Brooklyn",
+            "lines": [
+                "A",
+                "C",
+                "G"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "Nevins St",
+            "lat": "40.688205",
+            "lon": "-73.980492",
+            "borough": "Brooklyn",
+            "lines": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "Smith-9 Sts",
+            "lat": "40.673572",
+            "lon": "-73.995970",
+            "borough": "Brooklyn",
+            "lines": [
+                "F",
+                "G"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "14 St",
+            "lat": "40.737853",
+            "lon": "-74.000209",
+            "borough": "Manhattan",
+            "lines": [
+                "1",
+                "2",
+                "3"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "42 St-Bryant Park",
+            "lat": "40.754181",
+            "lon": "-73.984548",
+            "borough": "Manhattan",
+            "lines": [
+                "B",
+                "D",
+                "F",
+                "M"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "Canal St",
+            "lat": "40.720840",
+            "lon": "-74.005224",
+            "borough": "Manhattan",
+            "lines": [
+                "A",
+                "C",
+                "E"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "City Hall",
+            "lat": "40.713331",
+            "lon": "-74.006989",
+            "borough": "Manhattan",
+            "lines": [
+                "R"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "Lexington Av-59 St",
+            "lat": "40.762627",
+            "lon": "-73.967237",
+            "borough": "Manhattan",
+            "lines": [
+                "N",
+                "Q",
+                "R"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "Broad Channel",
+            "lat": "40.608374",
+            "lon": "-73.815946",
+            "borough": "Queens",
+            "lines": [
+                "A",
+                "S"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "Forest Hills-71 Av",
+            "lat": "40.721724",
+            "lon": "-73.844575",
+            "borough": "Queens",
+            "lines": [
+                "E",
+                "F",
+                "M",
+                "R"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "Myrtle Av",
+            "lat": "40.697287",
+            "lon": "-73.935655",
+            "borough": "Queens",
+            "lines": [
+                "J",
+                "M",
+                "Z"
+            ],
+            "transfer": "true"
+        },
+        {
+            "stationName": "Queensboro Plaza",
+            "lat": "40.750574",
+            "lon": "-73.940202",
+            "borough": "Queens",
+            "lines": [
+                "7",
+                "N",
+                "Q"
+            ],
+            "transfer": "true"
+        }
+
+    ]
+}

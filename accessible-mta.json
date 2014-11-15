@@ -1,7 +1,6 @@
 {
     "stations": [
         {
-            "key": "1",
             "stationName": "14 St",
             "lat": "40.739885",
             "lon": "-74.002573",
@@ -12,11 +11,10 @@
                 "E",
                 "L"
             ],
-            "description": "Elevator at northwest corner of 14th Street and Eighth Avenue",
-            "imageRef": "https://www.google.com/maps/place/8+Av/@40.739765,-74.0025814,3a,90y,10.32h,89.85t/data=!3m4!1e1!3m2!1sty7IPyuYj4DXLtftwMUhjg!2e0!4m7!1m4!3m3!1s0x89c259be8e8588b1:0x7f62d995d48be517!2s14+St!3b1!3m1!1s0x89c259be445ceb49:0xd4fae2a3d56c7a8a!6m1!1e1"
+            "description": "Elevator at northwest corner of 14th Street and Eighth Avenue. Note: Ramp near elevator to L platform is not ADA accessible, use elevator. Bus connections: M11 (at 9 Av), M14A, M14D, M20 (northbound) M20 (southbound at 7 Av)"
+            
         },
         {
-            "key": "2",
             "stationName": "14 St-Union Square",
             "lat": "40.734653",
             "lon": "-73.989946",
@@ -27,11 +25,9 @@
                 "Q",
                 "R"
             ],
-            "description": "Elevator at northeast corner of 14th Street and Park Avenue South (Union Square East)",
-            "imageRef": "https://www.google.com/maps/@40.7343207,-73.9896751,3a,75y,50.58h,78.23t/data=!3m4!1e1!3m2!1s0iTy4wo0v-mNkxt7l9Ha_Q!2e0!6m1!1e1"
+            "description": "Elevator at northeast corner of 14th Street and Park Avenue South (Union Square East). Bus connections: M1, M2, M3 (all northbound), M14A, M14D"
         },
         {
-            "key": "3",
             "stationName": "34 St-Herald Square",
             "lat": "40.749685",
             "lon": "-73.987944",
@@ -45,11 +41,9 @@
                 "Q",
                 "R"
             ],
-            "description": "Elevator at Herald Center building on west skeye of Broadway south of 34th Street",
-            "imageRef": "https://www.google.com/maps/place/34+St+-+Herald+Sq/@40.7495572,-73.9879198,3a,90y,309.86h,81.14t/data=!3m4!1e1!3m2!1sOFXg1qDdmC7VyvBLbLkYIw!2e0!4m6!1m3!3m2!1s0x89c259a938897f87:0x77a53418bbd56c17!2s34+St+-+Herald+Sq!3m1!1s0x89c259a938897f87:0x77a53418bbd56c17!6m1!1e1"
+            "description": "Elevator at Herald Center building on west side of Broadway south of 34th Street. Note: Ramps are not ADA accessible, use elevators.Connections: M4 (southbound ; northbound at 32 St), M5 (northbound), M7 (northbound), M34 SelectBusService; M34A SelectBusService, Q32 (southbound ; northbound at 32 St)), QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2 (northbound), New Jersey Transit (PATH) Note: For M34 and M34A SelectBusService, fare must be paid at the fare machines at the bus stop before boarding."
         },
         {
-            "key": "4",
             "stationName": "34 St-Penn Station 7th Ave",
             "lat": "40.751135",
             "lon": "-73.991110",
@@ -59,11 +53,9 @@
                 "2",
                 "3"
             ],
-            "description": "Elevator on south skeye of 34th Street west of Seventh Avenue at LIRR entrance",
-            "imageRef": "https://www.google.com/maps/place/W+34+St%2F7+Av/@40.7511775,-73.9910747,3a,90y,206h,90t/data=!3m4!1e1!3m2!1sgcPdlrcX33uVzoUyBuBF1A!2e0!4m6!1m3!3m2!1s0x89c259ae15b2adcb:0x7955420634fd7eba!2sPennsylvania+Station!3m1!1s0x89c259ae832e17dd:0x308e787f50ab02a8!6m1!1e1"
+            "description": "Elevator on south side of 34th Street west of Seventh Avenue at LIRR entrance. Connections: M4, M7 (southbound), M20 (southbound), M34 SelectBusService; M34A SelectBusService, Q32, BxM2 (southbound), AMTRAK, LIRR, New Jersey Transit Note: For M34 and M34A SelectBusService, fare must be paid at the fare machines at the bus stop before boarding. "
         },
         {
-            "key": "5",
             "stationName": "34 St-Penn Station 8th Ave",
             "lat": "40.751916",
             "lon": "-73.993410",
@@ -73,11 +65,9 @@
                 "C",
                 "E"
             ],
-            "description": "Elevator at southeast corner of 34th Street and Eighth Avenue to uptown local  C Line Symbol E Line Symbol platform level. For other service, after paying fare use elevator # 226 to mezzanine level and take elevator # 227 for uptown and downtown A Line Symbol service or elevator # 228 for downtown C Line Symbol E Line Symbol service",
-            "imageRef": "https://www.google.com/maps/@40.7521311,-73.9933246,3a,75y,195.34h,78.85t/data=!3m4!1e1!3m2!1sK3_OTpoH-6fgsx1KmAaGyA!2e0"
-        },
+            "description": "Elevator at southeast corner of 34th Street and Eighth Avenue to uptown local  C E platform level. For other service, after paying fare use elevator # 226 to mezzanine level and take elevator # 227 for uptown and downtown A service or elevator # 228 for downtown C E service. Connections: M20 (northbound), M34 SelectBusService; M34A SelectBusService, AMTRAK, Long Island Rail Road, New Jersey Transit (PATH) Note: For M34 and M34A SelectBusService, fare must be paid at the fare machines at the bus stop before boarding."
+       },
         {
-            "key": "6",
             "stationName": "42 St-Port Authority Bus Terminal",
             "lat": "40.757112",
             "lon": "-73.990579",
@@ -87,11 +77,9 @@
                 "C",
                 "E"
             ],
-            "description": "Elevator inskeye north wing of bus terminal (Eighth Avenue between 41st Street and 42nd Street) near airport bus ticket office. Note: Passageway to Times-Sq-42 St subway station is not accessible.",
-            "imageRef": "https://www.google.com/maps/place/Port+of+NY+Authority/@40.7567181,-73.9901655,3a,90y,313.69h,87.95t/data=!3m4!1e1!3m2!1sqlIkTIyKM0hknRER5sz2eg!2e0!4m18!1m15!4m14!1m6!1m2!1s0x89c25853174d55e3:0x99ced942dc90b3ac!2sW+42nd+St,+New+York,+NY+10036!2m2!1d-73.9917031!2d40.758034!1m6!1m2!1s0x89c25853683a3909:0x5a24a3c54a275af8!2sPort+of+NY+Authority,+625+8th+Ave+%23101,+New+York,+NY+10018!2m2!1d-73.9905!2d40.756871!3m1!1s0x89c25853683a3909:0x5a24a3c54a275af8!6m1!1e1"
-        },
+            "description": "Elevator inside north wing of bus terminal (Eighth Avenue between 41st Street and 42nd Street) near airport bus ticket office. Note: Passageway to Times-Sq-42 St subway station is not accessible. Bus connections: M20 (northbound), M34A SelectBusService (at 43 St), M42, M104 (northbound); Port Authority Bus Terminal Note: For M34A SelectBusService, fare must be paid at the fare machines at the bus stop before boarding."
+       },
         {
-            "key": "7",
             "stationName": "47-50 Sts-Rockefeller Ctr",
             "lat": "40.759350",
             "lon": "-73.981007",
@@ -102,8 +90,862 @@
                 "F",
                 "M"
             ],
-            "description": "Elevator at the northwest corner of 6th Avenue and 49 Street.",
-            "imageRef": "https://www.google.com/maps/@40.7592646,-73.9808731,3a,75y,219.45h,68.44t/data=!3m4!1e1!3m2!1sw_NZnmzfeOedrc0Ffzgu7A!2e0!6m1!1e1"
+            "description": "Elevator at the northwest corner of 6th Avenue and 49 Street. Bus connections: M5, M7 (both northbound), M50, QM1, QM2, QM3, QM4, QM5, QM6, QM10, QM12, QM15, QM16, QM17, QM18, QM20, QM24, BxM2."
+        },
+        {
+            "stationName": "49 St",
+            "lat": "40.760177",
+            "lon": "-73.984160",
+            "borough": "Manhattan",
+            "lines": [
+                "N",
+                "Q",
+                "R"
+            ],
+            "description": "(accessible northbound only)Elevator at northeast corner of 49th Street and Seventh Avenue. Elevator operates automatically between 7 AM and 12 AM. Push button to right of elevator for access at other times. Bus connections: M7, M20 (both southbound ), M50, M104 (southbound)."
+        },
+        {
+            "stationName": "50 St",
+            "lat": "40.762667",
+            "lon": "-73.985952",
+            "borough": "Manhattan",
+            "lines": [
+                "C",
+                "E"
+            ],
+            "description": "(accessible southbound only); (A also serves station between 11 PM and 5:30 AM) Elevator on north side of 49th Street west of Eighth Avenue. Bus connections: M20 (northbound), M50, M104 (northbound), BxM2 (southbound )"
+        },
+        {
+            "stationName": "51 St",
+            "lat": "40.757270",
+            "lon": "-73.971909",
+            "borough": "Manhattan",
+            "lines": [
+                "6",
+                "4 (between 12:30am and 5am)"
+            ],
+            "description": "Elevator at northeast corner of 52nd Street and Lexington Avenue. Note: Passageway to Lexington Av-53 St subway station is accessible. Bus connections: M50, M101, M102, M103, BxM1 (all southbound only)"
+        },
+        {
+            "stationName": "59 St-Columbus Circle",
+            "lat": "40.768499",
+            "lon": "-73.981747",
+            "borough": "Manhattan",
+            "lines": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "1",
+                "2 (between 12:30am and 5am)"
+            ],
+            "description": "Elevator on northwest corner of Columbus Circle and Central Park West and on southwest corner of 8th Avenue and Columbus Circle. Use Central Park West elevator for easiest A B C D uptown service, take elevator #280 at northwest corner of Columbus Circle and Central Park West to mezzanine level, then take elevator #279 to platform level. For A B C D downtown/Brooklyn bound service, take elevator #276X at southwest corner of 8th Av and Columbus Circle to mezzanine level, then take elevator #278 to platform level. For 1 uptown service, take elevator #280 to mezzanine level. For 1 downtown service take elevator #276X to mezzanine level then take elevator #277 up to platform level. Note: Both street elevators (#280 and #276X) can be used to access train lines. Also, ramp near booth N51 is not ADA accessible, use elevator. Bus connections: M5, M7, M10, M20, M31, M57 (both are at 57 St), M104"
+        },
+        {
+            "stationName": "66 St- Lincoln Center",
+            "lat": "40.773667",
+            "lon": "-73.982188",
+            "borough": "Manhattan",
+            "lines": [
+                "1",
+                "2 (between 12:30am and 5am)"
+            ],
+            "description": "Elevators on southwest corner of 66th Street and Broadway (downtown) and southeast corner of 66th Street and Broadway (uptown). Bus connections: M5, M7, M11 (southbound ), M20, M66, M104, BxM2"
+        },
+        {
+            "stationName": "72 St",
+            "lat": "40.775789",
+            "lon": "-73.976421",
+            "borough": "Manhattan",
+            "lines": [
+                "1",
+                "2",
+                "3"
+            ],
+            "description": "Elevators inside station house on north side of 72nd Street between Broadway and Amsterdam Avenue. Bus connections: M5, M7 (northbound), M11 (northbound), M57, M72, M104, BxM2 (northbound: southbound at Columbus Av)"
+        },
+        {
+            "stationName": "96 St",
+            "lat": "40.785883",
+            "lon": "-73.951102",
+            "borough": "Manhattan",
+            "lines": [
+                "1",
+                "2",
+                "3"
+            ],
+            "description": "Elevators inside station house on Broadway; entrances on south side of 96th Street and north side of 95th Street.Bus connections: M96, M104, M106"
+        },
+        {
+            "stationName": "125 St - 4,5,6",
+            "lat": "40.804133",
+            "lon": "-73.937591",
+            "borough": "Manhattan",
+            "lines": [
+                "4",
+                "5",
+                "6"
+            ],
+            "description": "Elevator at northeast corner of 125th Street and Lexington Avenue. Connections: M35, M60, M100, M101, M103, Bx15, M98 (weekdays only; southbound along Park Avenue; northbound along Third Avenue), Metro-North Railroad"
+        },
+        {
+            "stationName": "125 St - A,B,C,D",
+            "lat": "40.811296",
+            "lon": "-73.952354",
+            "borough": "Manhattan",
+            "lines": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "description": "Elevator on southwest corner of 125 Street and Saint Nicholas Avenue. Bus connections: M3, M10, M60, M100, M101, Bx15"
+        },
+        {
+            "stationName": "135 St",
+            "lat": "40.818113",
+            "lon": "-73.947681",
+            "borough": "Manhattan",
+            "lines": [
+                "2",
+                "3"
+            ],
+            "description": "Elevator for northbound service at northeast corner of 135 Street and Lenox Avenue; elevator for southbound service at southwest corner. Bus connections: M7, M102, Bx33"
+        },
+        {
+            "stationName": "168 St",
+            "lat": "40.840906",
+            "lon": "-73.939561",
+            "borough": "Manhattan",
+            "lines": [
+                "A",
+                "C"
+            ],
+            "description": "Elevator at southeast corner of 168 Street and St. Nicholas Avenue. Bus connections: M2, M3, M5, M100, Bx7"
+        },
+        {
+            "stationName": "175 St",
+            "lat": "40.847610",
+            "lon": "-73.939650",
+            "borough": "Manhattan",
+            "lines": [
+                "A"
+            ],
+            "description": "Elevator at northeast corner of 177th Street and Fort Washington Avenue. Bus connections: M4, M5, M98 (weekdays only), M100, Bx3, Bx7, Bx11, Bx13, Bx35, Bx36; Port Authority George Washington Bridge Bus Station. Note: The George Washington Bridge Bus Station is not ADA-accessible. Call New Jersey Transit at 973-275 5555 for further information, or to make a reservation for a lift-equipped bus. Visit the New Jersey Transit website at www.njtransit.com."
+        },
+        {
+            "stationName": "Bowling Green",
+            "lat": "40.704996",
+            "lon": "-74.014054",
+            "borough": "Manhattan",
+            "lines": [
+                "4",
+                "5"
+            ],
+            "description": "Elevator at northeast corner of Broadway and Battery Place. Bus connections: M5, M20, X1, X3, X4, X8, X10, X11, X12, X14, X15, X17, X19, X27, X28, BM1, BM2, BM3, BM4, BxM18, QM7, QM8, QM11, QM25; (Staten Island Ferry two blocks south of station)."
+        },
+        {
+            "stationName": "Broadway-Lafayette St/Bleecker St",
+            "lat": "40.725533",
+            "lon": "-73.996204",
+            "borough": "Manhattan",
+            "lines": [
+                "6",
+                "B",
+                "D",
+                "F",
+                "M",
+                "4 (late nights)"
+            ],
+            "description": "Elevator on north side of Houston Street between Lafayette and Crosby Streets. Bus connections: M5 (southbound ), M21"
+        },
+        {
+            "stationName": "Brooklyn Bridge-City Hall",
+            "lat": "40.713228",
+            "lon": "-74.004142",
+            "borough": "Manhattan",
+            "lines": [
+                "4",
+                "5",
+                "6"
+            ],
+            "description": "Elevator east of City Hall near Chambers Street and Centre Street. Bus connections: M5 (southbound ), M9, M22, M103, BM1, BM2, BM3, BM4, QM7, QM8, QM11, QM25"
+        }, 
+        {
+            "stationName": "Canal St",
+            "lat": "40.719042",
+            "lon": "-74.000192",
+            "borough": "Manhattan",
+            "lines": [
+                "6",
+                "4 (between 1am and 5am)"
+            ],
+            "description": "Uptown: Elevators at northeast corner (for northbound service) and northwest corner (for southbound service) of Canal Street and Lafayette Street. Note: There is no station booth on the downtown platform. For access to the subway platform and 6 train, customers who have ambulatory disabilities need to use Reduced-Fare MetroCard or use the Customer assistance intercom to notify station agent in uptown booth to open gate. Passageway to other routes not accessible. Bus connections: M5 (southbound)"
+        },                
+        {
+            "stationName": "Chambers St",
+            "lat": "40.715689",
+            "lon": "-74.009336",
+            "borough": "Manhattan",
+            "lines": [
+                "1",
+                "2",
+                "3"
+            ],
+            "description": "Elevator at northwest corner of Hudson and Chambers Streets.Bus connections: M5 (northbound), (one block east at Church St), M9 (at Warren and Murray Sts), M20 (southbound), M22 Overnights only, free paratransit service replaces temporary shuttle seven days a week, between the South Ferry 1 station and the Chambers Street 1 2 3 station, while South Ferry station elevator reconstruction is underway. See the South Ferry listing for more information."
+        },
+        {
+            "stationName": "Dyckman St",
+            "lat": "40.860708",
+            "lon": "-73.925544",
+            "borough": "Manhattan",
+            "lines": [
+                "1 (southbound only)"
+
+            ],
+            "description": "Elevator at southwest corner of Hillside Avenue and St. Nicholas Avenue/Ft. George Hill."
+        },  
+        {
+            "stationName": "Fulton St",
+            "lat": "40.709741",
+            "lon": "-74.009983",
+            "borough": "Manhattan",
+            "lines": [
+                "4 (southbound only)",
+                "5 (southbound only)"
+
+            ],
+            "description": "Elevator on the southwest corner of Dey Street and Broadway. Bus connections: M5 (southbound) (northbound M5 is one block west on Church St)"
+        },
+        {
+            "stationName": "Grand Central-42 St",
+            "lat": "40.752012",
+            "lon": "-73.976837",
+            "borough": "Manhattan",
+            "lines": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "description": "Elevator to mezzanine inside main entrance, immediately to right of Grand Central Terminal (East 42nd Street between Park Avenue and Lexington Avenue). For 4 5 6 turn left after paying fare. At wall, elevator to downtown platform is to the left; elevator to uptown platform is to the right. For 7, go diagonally across mezzanine after paying fare to elevator # 224 (adjacent to exit for Chanin Building) for uptown and downtown 7 platform. Connections:M42, M101, M102, M103, BxM1 (all southbound ), Metro-North Railroad."
+        }, 
+        {
+            "stationName": "Inwood-207 St",
+            "lat": "40.868315",
+            "lon": "-73.919942",
+            "borough": "Manhattan",
+            "lines": [
+                "A"
+            ],
+            "description": "Elevator at southwest corner of Broadway and 207th Street. Bus connections: M100, Bx7, Bx12, (overnight only), Bx12 SelectBusService, Bx20, BxM1.  Note: For Bx12 SelectBusService, fare must be paid at the fare machines at the bus stop before boarding."
+        },
+        {
+            "stationName": "Lexington Av/53rd St",
+            "lat": "40.757560",
+            "lon": "-73.969055",
+            "borough": "Manhattan",
+            "lines": [
+                "E",
+                "M"
+            ],
+            "description": "Elevator at northeast corner of 52nd Street and Lexington Avenue. Take passageway to elevator for platform. Bus connections: M101, M102, M103 (all southbound)."
+        },
+        {
+            "stationName": "Roosevelt Island",
+            "lat": "40.759155",
+            "lon": "-73.953245",
+            "borough": "Manhattan",
+            "lines": [
+                "F"
+            ],
+            "description": "Elevators at street level. Bus connections: Q102; Red Bus (Operated by Roosevelt Island Operating Corp; call 212-832-4540 for information.)"
+        },
+        {
+            "stationName": "Times Square-42 St",
+            "lat": "",
+            "lon": "",
+            "borough": "Manhattan",
+            "lines": [
+                "N",
+                "Q",
+                "R",
+                "1",
+                "2",
+                "3",
+                "7"
+            ],
+            "description": "The S is not accessible.  Elevator at southeast corner of Seventh Avenue and 42nd Street. Note: Passageway to A C E and Port Authority Bus Terminal is not ADA accessible. Bus connections: M7 (southbound), M20 (southbound), M42, BxM2 (southbound ; northbound at 6 Av)"
+        },
+        {
+            "stationName": "West 4 St",
+            "lat": "40.756073",
+            "lon": "-73.986978",
+            "borough": "Manhattan",
+            "lines": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "M"
+            ],
+            "description": "Elevator at northeast corner of West 3rd Street and Sixth Avenue. Take elevator to mezzanine level; use northbound or southbound passageway for A C E platforms.Use elevators on A C E platforms to go to lower platforms and B D F M service.Bus connections: M5 (northbound)"
+        },
+        {
+            "stationName": "3 Av-149 St",
+            "lat": "40.816158",
+            "lon": "-73.917768",
+            "borough": "Bronx",
+            "lines": [
+                "2",
+                "5"
+            ],
+            "description": "Uptown elevator at southwest corner of 149th Street and Third Avenue. Downtown elevator at northwest corner. Bus connections: Bx2 (northbound), Bx4, Bx4A, Bx15, Bx19, Bx21, Bx41 SelectBusService Note: For Bx41 SelectBusService, fare must be paid at the fare machines at the bus stop before boarding. "
+        }, 
+        {
+            "stationName": "161 St-Yankee Stadium",
+            "lat": "40.828026",
+            "lon": "-73.925863",
+            "borough": "Bronx",
+            "lines": [
+                "B",
+                "D",
+                "4"
+            ],
+            "description": "Elevator at northeast corner of 161st Street and River Avenue.  Take elevator to mezzanine. For B D (IND) service take elevator # 134 (adjacent to elevator # 131) to downtown platform; take elevator # 135 (across mezzanine, at right) to uptown platform. For 4 (IRT) service, pay fare, use up ramp to elevator # 132; take elevator to second mezzanine and uptown platform. For downtown 4 (IRT) service, turn right at second mezzanine; take down ramp to elevator # 133. Bus connections: Bx6, Bx13"
+        }, 
+        {
+            "stationName": "231 St",
+            "lat": "40.878897",
+            "lon": "-73.904823",
+            "borough": "Bronx",
+            "lines": [
+                "1"
+            ],
+            "description": "Uptown elevator at southeast corner of 231 Street and Broadway. Downtown elevator at southwest corner. Bus connections: Bx1, Bx7 (northbound), Bx9, Bx10, Bx20 (northbound)"
+        }, 
+        {
+            "stationName": "233 St",
+            "lat": "40.893234",
+            "lon": "-73.857462",
+            "borough": "Bronx",
+            "lines": [
+                "2",
+                "5"
+            ],
+            "description": "Elevator at northwest corner of White Plains Road and 233 Street. Bus connections: Bx31, Bx39, BxM11, Bee-Line 42 (operated by Westchester County Bee-Line. For further assistance, call Bee-Line customer service at 914-813-7777.)"
+        }, 
+        {
+            "stationName": "E 180 St",
+            "lat": "40.841902",
+            "lon": "-73.873467",
+            "borough": "Bronx",
+            "lines": [
+                "2",
+                "5"
+            ],
+            "description": "Elevators inside station house on northwest corner of East 180th Street and Morris Park Avenue. Bus connections: Bx9, Bx21, Bx40, Bx42, Q44"
+        }, 
+        {
+            "stationName": "Fordham Rd",
+            "lat": "40.862819",
+            "lon": "-73.901034",
+            "borough": "Bronx",
+            "lines": [
+                "4"
+            ],
+            "description": "Elevator at southeast corner of Jerome Avenue and Fordham Road. Bus connections: Bx12, Bx12 SelectBusService, Bx32. Note: For Bx12 SelectBusService, fare must be paid at the fare machines at the bus stop before boarding."
+        }, 
+        {
+            "stationName": "Gun Hill Rd – White Plains Rd",
+            "lat": "40.878888",
+            "lon": "-73.866084",
+            "borough": "Bronx",
+            "lines": [
+                "2",
+                "5"
+            ],
+            "description": "Elevator inside main entrance on White Plains Road between Gun Hill Road and 211 Street. Bus connections: Bx28, Bx30, Bx38, Bx39, Bx41 SelectBusService, BxM11 Note: For Bx41 SelectBusService, fare must be paid at the fare machines at the bus stop before boarding."
+        },
+        {
+            "stationName": "Pelham Bay Park",
+            "lat": "40.852511",
+            "lon": "-73.828142",
+            "borough": "Bronx",
+            "lines": [
+                "6"
+            ],
+            "description": "Elevator at back of station beyond escalators, near corner of Westchester Avenue and Bruckner Boulevard. Bus connections: Bx5, Bx12, Bx12 SelectBusService, Bx23, Bx24, Bx29, Q50, BxM8, Bee-Line 45 (operated by Westchester County Bee-Line. For further assistance call Bee-Line customer service at 914-813-7777.) Note: For Bx12 SelectBusService, fare must be paid at the fare machines at the bus stop before boarding."
+        },
+        {
+            "stationName": "Pelham Parkway – White Plains Rd",
+            "lat": "40.857226",
+            "lon": "-73.867577",
+            "borough": "Bronx",
+            "lines": [
+                "2",
+                "5"
+            ],
+            "description": "Elevator at southwest corner of Pelham Parkway and White Plains Road. Bus connections: BxM11, Bx12, Bx12 SelectBusService, Bx22, Bx39. Note: For Bx12 SelectBusService, fare must be paid at the fare machines at the bus stop before boarding."
+        },
+        {
+            "stationName": "Simpson St",
+            "lat": "40.824138",
+            "lon": "-73.893053",
+            "borough": "Bronx",
+            "lines": [
+                "2",
+                "5"
+            ],
+            "description": "Uptown elevator at southeast corner of Simpson Street and Westchester Avenue. Downtown elevator at northwest corner Bus connections: Bx4, Bx4A, Bx5, Bx11, Bx19, Bx27, Bx35"
+        },
+        {
+            "stationName": "Atlantic Avenue/Barclays Center/4 Avenue",
+            "lat": "40.683685",
+            "lon": "-73.978854",
+            "borough": "Brooklyn",
+            "lines": [
+                "B",
+                "D",
+                "N",
+                "Q",
+                "R",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "description": "Elevator to all subway lines at southeast corner of Pacific Street and Fourth Avenue or at Hanson Place and Flatbush Avenue. Use Pacific Street elevator for easiest access to D N Subway Line R Subway. Use Hanson Place elevator for easiest access to B Subway Q Subway 2 Subway 3 Subway 4 Subway 5 Subway and for direct access to LIRR) (Pacific Street elevator leads to subway system but requires fare to use subway entrance for access to LIRR). Connections: B41, B45, B63, B65, B67, Long Island Rail Road"
+        },
+        {
+            "stationName": "Avenue H",
+            "lat": "40.629262",
+            "lon": "-73.961628",
+            "borough": "Brooklyn",
+            "lines": [
+                "Q (southbound only)"
+            ],
+            "description": "Entrance on north side of Avenue H and East 15th Street."
+        },
+        {
+            "stationName": "Bay Parkway",
+            "lat": "40.601887",
+            "lon": "-73.993701",
+            "borough": "Brooklyn",
+            "lines": [
+                "D"
+            ],
+            "description": "Street elevator on northwest corner of Bay Parkway and 86th Street. Bus connections: B1, B6, B82"
+        },
+        {
+            "stationName": "Borough Hall",
+            "lat": "40.693487",
+            "lon": "-73.990030",
+            "borough": "Brooklyn",
+            "lines": [
+                "2",
+                "3",
+                "4 (northbound only; access from the 2, 3 platform)",
+                "5 (northbound only; access from the 2, 3 platform)"
+            ],
+            "description": "Elevator in front of Supreme Court Building at Court Street and Montague Street. Bus connections: B25, B26, B38, B41, B45, B52, B65, B103."
+        },
+        {
+            "stationName": "Canarsie-Rockaway Parkway",
+            "lat": "40.646685",
+            "lon": "-73.901806",
+            "borough": "Brooklyn",
+            "lines": [
+                "L"
+            ],
+            "description": "Ramp at main entrance. Bus connections: B6, B17, B42, B60, B82"
+        },
+        {
+            "stationName": "Church Av - 2, 5",
+            "lat": "40.650810",
+            "lon": "-73.949596",
+            "borough": "Brooklyn",
+            "lines": [
+                "2",
+                "5"
+            ],
+            "description": "Elevator for northbound service at southeast corner of Church Avenue and Nostrand Avenue; elevator for southbound service at southwest corner. Bus connections: B35, B44, B44 SelectBusService. Note: For B44 SelectBusService, fare must be paid at the fare machines at the bus stop before boarding."
+        },
+        {
+            "stationName": "Church Av - F, G",
+            "lat": "40.644020",
+            "lon": "-73.979694",
+            "borough": "Brooklyn",
+            "lines": [
+                "F",
+                "G"
+            ],
+            "description": "Elevator at northwest corner of Church Avenue and McDonald Avenue. Bus connections: B35, B67, B69, B103 (eastbound), BM3 (eastbound), BM4 (eastbound)"
+        },
+        {
+            "stationName": "Coney Island-Stillwell Av",
+            "lat": "40.577422",
+            "lon": "-73.981244",
+            "borough": "Brooklyn",
+            "lines": [
+                "D",
+                "F",
+                "N",
+                "Q"
+            ],
+            "description": "Main entrance is on Mermaid Avenue. Ramp to turnstile level mezzanine located at far right of street level concourse. At turnstile level, AutoGate is directly in front of ramp. Customers who have ambulatory disabilities need to use a Reduced-Fare MetroCard to enter through the AutoGate. The F Subway D Subway Q Subway platforms are accessible by ramp from turnstile level. The D Subway platform is accessible via N Subway platform. For D Subway service, take N Subway ramp to N Subway elevator. Take N Subway elevator to overpass and take D Subway elevator to D Subway platform. Note: Entrances at Surf Avenue and Stillwell Avenue are also ADA accessible by ramp. Ramp on D Subway platform is not ADA accessible, use elevator. Bus connections: B36, B64, B68, B74, B82"
+        },
+        {
+            "stationName": "Crown Hts-Utica Av",
+            "lat": "40.668913",
+            "lon": "-73.932921",
+            "borough": "Brooklyn",
+            "lines": [
+                "3",
+                "4"
+            ],
+            "description": "Elevator at corner of Utica Avenue and Eastern Parkway. Bus connections: B14, B17, B46"
+        },
+
+{
+            "stationName": "DeKalb Av",
+            "lat": "40.690627",
+            "lon": "-73.981845",
+            "borough": "Brooklyn",
+            "lines": [
+                "B",
+                "Q",
+                "R",
+                "D (between 11pm and 6am)",
+                "N (between 11pm and 6am)"
+            ],
+            "description": "Elevator at southeast corner of DeKalb Avenue and Flatbush Avenue. Bus connections: B25, B26, B38, B52"
+        },
+
+{
+            "stationName": "Euclid Av",
+            "lat": "40.675385",
+            "lon": "-73.872127",
+            "borough": "Brooklyn",
+            "lines": [
+                "A",
+                "C"
+            ],
+            "description": "Elevator at northeast corner of Euclid Avenue and Pitkin Avenue. Bus connections: B13 (southbound ), (B13 northbound stop is two blocks away at Crescent Street and Pitkin Avenue.), Q7, Q8"
+        },
+
+{
+            "stationName": "Flatbush Av-Brooklyn College",
+            "lat": "",
+            "lon": "",
+            "borough": "Brooklyn",
+            "lines": [
+                "2",
+                "5"
+            ],
+            "description": "Elevator on corner of Flatbush Avenue and Nostrand Avenue. Bus connections: B6, B11, B41, B44, B44 SelectBusService, B103, Q35, BM2 Note: For B44 SelectBusService, fare must be paid at the fare machines at the bus stop before boarding."
+        },
+
+        {
+            "stationName": "Flushing Av",
+            "lat": "40.632828",
+            "lon": "-73.947631",
+            "borough": "Brooklyn",
+            "lines": [
+                "J",
+                "M"
+            ],
+            "description": "Elevator at southwest corner of Flushing Avenue and Broadway, near entrance to Woodhull Medical Center. At mezzanine, go through doors, pay fare, and ask station agent to open gate, or use your Reduced-Fare MetroCard. Customers who have ambulatory disabilities need to use a Reduced-Fare AutoGate MetroCard to enter through the AutoGate. For Queens-bound service use doors on right for elevator. For Manhattan-bound service, use doors on left, bear right past staircase and take passageway to elevator. Bus connections: B15, B43, B46, B47, B57"
+        },
+
+{
+            "stationName": "Franklin Av",
+            "lat": "40.670633",
+            "lon": "-73.958131",
+            "borough": "Brooklyn",
+            "lines": [
+                "C",
+                "S",
+                "A (between 11pm and 6am)"
+            ],
+            "description": "Elevator on southwest corner of Fulton Street and Franklin Avenue. For Euclid Avenue bound service, take elevator #339 down to platform level. For  C Manhattan-bound service, take elevator #339 up to footbridge level, make right turn, then go across footbridge and take elevator #340 to platform level. For S service, take elevator #339 up to shuttle platform. Bus connections: B25, B26, B48, B49"
+        },
+        {
+            "stationName": "Jay St-MetroTech",
+            "lat": "40.692330",
+            "lon": "-73.987321",
+            "borough": "Brooklyn",
+            "lines": [
+                "A",
+                "C",
+                "F",
+                "R",
+                "N (between 11:30pm and 5:30am)"
+            ],
+            "description": "Elevator on northeast corner of Jay and Willoughby Streets. Bus connections: B25, B26, B38, B41, B45, B52, B54, B57, B61, B62, B65, B67, B103"
+        },
+        {
+            "stationName": "Kings Highway",
+            "lat": "40.608726",
+            "lon": "-73.957834",
+            "borough": "Brooklyn",
+            "lines": [
+                "B",
+                "Q"
+            ],
+            "description": "Elevators inside station house on Kings Highway between 15th and 16th Streets Bus connections: B2, B7, B31, B82, B100"
+        },
+        {
+            "stationName": "Marcy Avenue",
+            "lat": "40.708423",
+            "lon": "-73.957728",
+            "borough": "Brooklyn",
+            "lines": [
+                "J",
+                "M",
+                "Z"
+            ],
+            "description": "Elevators at corner of Marcy Avenue and Broadway. Bus connections: B24, B32, B39, B46, B44, B44 SelectBusService (B60, B62, Q54 and Q59 available at Williamsburg Bridge Plaza/Washington Bus Terminal, one block west of station). Note: For B44 SelectBusService, fare must be paid at the fare machines at the bus stop before boarding."
+        },
+        {
+            "stationName": "Myrtle/Wyckoff Avenues",
+            "lat": "40.699809",
+            "lon": "-73.911595",
+            "borough": "Brooklyn",
+            "lines": [
+                "L",
+                "M"
+            ],
+            "description": "Enter through station house entrances at the intersection of Myrtle/Wyckoff Avenues. Elevator to platforms inside station house. Bus connections: B13, B26, B52, B54, Q55, Q58"
+        },
+        {
+            "stationName": "Park Place",
+            "lat": "40.674730",
+            "lon": "-73.957626",
+            "borough": "Brooklyn",
+            "lines": [
+                "S"
+            ],
+            "description": "Ramp from Prospect Place west of Franklin Avenue. Service in both directions on single track. Bus connection: B45, B48"
+        },
+        {
+            "stationName": "Prospect Park",
+            "lat": "40.661606",
+            "lon": "-73.962257",
+            "borough": "Brooklyn",
+            "lines": [
+                "B",
+                "Q",
+                "S"
+            ],
+            "description": "Entrance ramp on Lincoln Road between Flatbush Avenue and Ocean Avenue. After paying fare, take ramp to elevator for Manhattan-bound platform or ramp to elevator for Brighton Beach-bound platform. S Subway Line to Franklin Avenue stops at Manhattan-bound platform. Bus connections: B16, B41, B43, B48"
+        },
+        {
+            "stationName": "Utica Avenue",
+            "lat": "40.679355",
+            "lon": "-73.930722",
+            "borough": "Brooklyn",
+            "lines": [
+                "A",
+                "C"
+            ],
+            "description": "Elevator at northwest corner of Fulton Street and Malcolm X Boulevard. Bus connections: B25, B46"
+        },
+        {
+            "stationName": "21 St-Queensbridge",
+            "lat": "40.754203",
+            "lon": "-73.942900",
+            "borough": "Queens",
+            "lines": [
+                "F"
+            ],
+            "description": "Elevator at northwest corner of 21st Street and 41st Avenue. Bus connections: Q66, Q69, Q100, Q102, Q103"
+        },
+        {
+            "stationName": "Court Sq",
+            "lat": "40.746554",
+            "lon": "-73.943853",
+            "borough": "Queens",
+            "lines": [
+                "7"
+            ],
+            "description": "(G is not ADA-accessible). Elevator on northeast corner of Jackson Avenue and 23rd Street. Bus connections: B32, B62, Q39, Q67 and Q69"
+        },
+        {
+            "stationName": "Far Rockaway-Mott Av",
+            "lat": "40.603987",
+            "lon": "-73.755384",
+            "borough": "Queens",
+            "lines": [
+                "A"
+            ],
+            "description": "(For rush hours, be sure service is to Far Rockaway, NOT Rockaway Park or Ozone Park-Lefferts Blvd). Elevators to platform level inside station house at corner of Mott Avenue and Beach 22nd Street. Bus connections: Q22, Q113, QM17; NICE (Nassau Inter-County Express Buses: N31, N32, and N33; call 516-228-4000 for more information.)"
+        },
+        {
+            "stationName": "Flushing/Main St",
+            "lat": "40.759605",
+            "lon": "-73.830020",
+            "borough": "Queens",
+            "lines": [
+                "7"
+            ],
+            "description": "Elevator on Roosevelt Avenue east of Main Street. Bus connections: Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A, Q20B, Q25, Q26, Q27, Q28, Q34, Q44, Q48, Q50, Q65, Q66; NICE (Nassau Inter County Express; 516-228-4000): N20, N21. Note: The Q13, Q16, and Q28 are on 39 Av, one block from station. The Q17, Q25, Q27, Q34, Q65 and Q66, are on Main St, one-to two blocks from station. The Q19, Q48, Q50 and Q66 are on Roosevelt Av, west of Main St."
+        },
+        {
+            "stationName": "Forest Hills-71 Avenue",
+            "lat": "40.721709",
+            "lon": "-73.844542",
+            "borough": "Queens",
+            "lines": [
+                "E",
+                "F",
+                "M",
+                "R"
+            ],
+            "description": "Elevator on south side of Queens Boulevard between 70th Road and 71st Avenue. Bus Connections: Q23, Q60, Q64, QM18"
+        },
+        {
+            "stationName": "Howard Beach-JFK Airport",
+            "lat": "40.660484",
+            "lon": "-73.830322",
+            "borough": "Queens",
+            "lines": [
+                "A"
+            ],
+            "description": "Be sure service is to Far Rockaway or Rockaway Park, not Ozone Park-Lefferts Blvd. Elevators at Coleman Square and 159th Avenue. Connection: AirTrain JFK"
+        },
+        {
+            "stationName": "74 St-Broadway",
+            "lat": "40.746856",
+            "lon": "-73.891383",
+            "borough": "Queens",
+            "lines": [
+                "7"
+            ],
+            "description": "Elevator on Roosevelt Avenue between 74th and 75th Streets, or enter on Broadway between 74th and 75th Streets. For Flushing-bound 7 platform, take elevator #420 to platform level. For Manhattan-bound 7 platform, take elevator #420 to mezzanine level then take elevator #423 to platform level. Bus connections: Q32, Q33, Q47, Q49, Q53, Q70. Note: Q47 and Q70 go to LaGuardia Airport"
+        },
+        {
+            "stationName": "Jackson Hts-Roosevelt Av",
+            "lat": "40.746636",
+            "lon": "-73.891445",
+            "borough": "Queens",
+            "lines": [
+                "E",
+                "F",
+                "M",
+                "R"
+            ],
+            "description": "Elevator on Roosevelt Avenue between 74th and 75th Streets, or enter on Broadway between 74th and 75th Streets. For E F M R Manhattan-bound service, take elevator #420 to middle mezzanine level, then take elevator #421 to platform level. For E F M R Forest Hills-71 Av or Jamaica Av-179 St, take elevator #420 to middle mezzanine level, then take elevator #421 to mezzanine level; then transfer to elevator #422 to platform level. Bus connections: Q32, Q33, Q47, Q49, Q53, Q70. Note: Q47 and Q70 go to LaGuardia Airport."
+        },
+        {
+            "stationName": "Jamaica-179 St",
+            "lat": "40.712613",
+            "lon": "-73.783828",
+            "borough": "Queens",
+            "lines": [
+                "F"
+            ],
+            "description": "Elevator at southeast corner of 179th Place and Hillside Avenue. Connections: Q1, Q2, Q3, Q17, Q36, Q43, Q76, Q77, Q110 (rush hours only) X68, NICE (Nassau Inter County Express; 516-228-4000): N6, N22, N24; (N1, N22A, N26 rush hours only)"
+        },
+        {
+            "stationName": "Jamaica Center/Parsons-Archer",
+            "lat": "40.702171",
+            "lon": "-73.801098",
+            "borough": "Queens",
+            "lines": [
+                "E",
+                "J",
+                "Z"
+            ],
+            "description": "Elevator on south side of Archer Avenue at Parsons Boulevard. Bus connections: : Q4, Q5, Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q41, Q42, Q44, Q65, Q83, Q84, Q85, Q110, Q111, Q112, Q113. NICE (Nassau Inter County Express; 516-228-4000): N4"
+        },
+        {
+            "stationName": "Jamaica-Van Wyck",
+            "lat": "40.702558",
+            "lon": "-73.816880",
+            "borough": "Queens",
+            "lines": [
+                "E"
+            ],
+            "description": "Elevator at corner of 89th Avenue and the Van Wyck Expressway south service road, adjacent to Jamaica Hospital. Bus connections: Q20, Q20A, Q20B, Q24, Q44 (two blocks away, on Main Street), Q54, Q56, Q60"
+        },
+        {
+            "stationName": "Junction Blvd",
+            "lat": "40.749145",
+            "lon": "-73.869581",
+            "borough": "Queens",
+            "lines": [
+                "7"
+            ],
+            "description": "Elevator at northeast corner of Junction Boulevard and Roosevelt Avenue. Use elevator # 425 for access to station agent on mezzanine level, or continue to overpass level. Proceed through fare gate and use overpass to take elevator # 426 to platform level for Manhattan-bound service. Take elevator # 427 to platform level for Flushing-bound service. Use your Reduced-Fare AutoGate MetroCard to enter through the AutoGate, or use the Customer assistance intercom to notify station agent to open gate. Note: You need a Reduced-Fare AutoGate MetroCard to enter or exit the subway system through the AutoGate. Bus connection: : Q72 (Q72 goes to LaGuardia Airport)"
+        },
+        {
+            "stationName": "Kew Gardens-Union Turnpike",
+            "lat": "40.714433",
+            "lon": "-73.830987",
+            "borough": "Queens",
+            "lines": [
+                "E",
+                "F"
+            ],
+            "description": "Elevator at southeast corner of Union Turnpike and Kew Gardens Road. Bus connections: Q10 (Q10 goes to JFK Airport), Q37, Q46, Q60, (Q10 goes to JFK Airport) X63, X64, X68"
+        },
+        {
+            "stationName": "Middle Village-Metropolitan Av",
+            "lat": "40.711363",
+            "lon": "-73.889622",
+            "borough": "Queens",
+            "lines": [
+                "M"
+            ],
+            "description": "Station at street level. Bus connections: Q38, Q54, Q67"
+        },
+        {
+            "stationName": "Queens Plaza",
+            "lat": "40.749006",
+            "lon": "-73.937264",
+            "borough": "Queens",
+            "lines": [
+                "E",
+                "M",
+                "R"
+            ],
+            "description": "Elevator at corner of Queens Plaza South and Jackson Avenue.Bus connections: B62, Q32, Q39, Q60, Q67, Q69, Q100, Q101, Q102"
+        },
+        {
+            "stationName": "Rockaway Park-Beach 116 St",
+            "lat": "40.580960",
+            "lon": "-73.835667",
+            "borough": "Queens",
+            "lines": [
+                "A (rush hours only)",
+                "S"
+            ],
+            "description": "Station at street level. Bus connections: Q22, Q35, Q53 and QM16"
+        },
+        {
+            "stationName": "Sutphin Blvd-Archer Av/ JFK Airport",
+            "lat": "40.700470",
+            "lon": "-73.807990",
+            "borough": "Queens",
+            "lines": [
+                "E",
+                "J",
+                "Z"
+            ],
+            "description": "Elevator off southeast corner of Sutphin Boulevard at Archer Avenue near elevated LIRR tracks. Use corridor next to escalators. E on upper level of station; J Z on lower level; LIRR one level above street; AirTrain JFK two levels above street Connections: Q6, Q8, Q9, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q43, Q44, Q54, Q56, Q60, Q65 (Q54 and Q56 are two blocks from station, along Jamaica Av); LIRR, AirTrain JFK"
+        },
+        {
+            "stationName": "Woodside-61 St",
+            "lat": "40.745663",
+            "lon": "-73.903027",
+            "borough": "Queens",
+            "lines": [
+                "7"
+            ],
+            "description": "Elevator at northeast corner of 61st Street and Roosevelt Avenue. Connections: Q18 (on Woodside Av, two blocks away), Q32, Q53, Q70 (Q70 goes to LaGuardia Airport); LIRR."
         }
     ]
 }

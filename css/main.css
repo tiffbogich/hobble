@@ -111,6 +111,7 @@ aside{
   overflow: hidden;
   bottom:50px;
   left:0;
+  z-index:9;
 
 }
 #station-info{
@@ -118,19 +119,19 @@ aside{
   margin:0 auto;
   overflow:hidden;
 }
+
 #pano-container{
   width:300px;
   overflow:hidden;
   margin:0 auto;
   padding:0 2% 0 0;
-  display:inline-block;
   float:left;
 }
 #panorama{
   height:200px;
 }
 
-div#details{
+#details{
   margin-left:10px;
 
 }
@@ -145,6 +146,9 @@ div#details{
 }
 aside p:last-of-type{
   padding-top:20px;
+}
+#notes{
+  font-size:14px;
 }
 
 /*close button for aside window*/
@@ -185,19 +189,19 @@ footer{
   left:0;
 }
 
-footer a{
+footer a, footer span{
   color: #f3f3f3;
   line-height: 50px;
   font-weight: 200;
   
 }
-footer a{
+footer a, footer span{
   padding-right:25px;
 }
 
-a.about{
+a.about, span.about{
   float:left;
-  margin-left:5px;
+  margin-left:5%;
 
 }
 
@@ -233,7 +237,6 @@ a.icon{
       display:none;
     }
     a.about{
-      float:none;
       padding-right:5px;
     }
 }
