@@ -7,7 +7,8 @@ This is a work in progress to make a more user friendly version of the informati
 
 
 ##Features in progress
-- Map of just the subway lines and stations with elevators pinned with option to view in google map or in an MTA subway map including details and pictures about where the elevator is, ramps, etc when you click on the station pin
+- Google Map with pins of accessible subway locations) as well as points for subway stations that are accessible between lines (transfer stations) 
+- -ncluding basic details from the MTA about accessible at the station and a streetview image of the location when you click on the station pin
 
 ##Feature and function wish list
 - Route finder - take in from and to and show closest handicap accessible stations to each end of the trip
