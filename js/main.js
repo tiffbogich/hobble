@@ -17,9 +17,9 @@ $(document).ready(function(){
           lat: this.lat,
           lng: this.lon,
           title: this.stationName,
-          infoWindow:{
-            content:'<p>'+this.stationName+'</p>'
-          },
+          // infoWindow:{
+          //   content:'<p>'+this.stationName+'</p>'
+          // },
           //on click show extra station info below corresponding to the marker
           click: function(){
             $('#instructions').css('text-indent','-9999px');
