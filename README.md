@@ -1,6 +1,6 @@
 #Hobble… A crutch friendly guide to the NYC subway system
 
-I started working on this after having to spend several months on crutches following ankle surgery and spending way to much money on taxis, ubers, and lyfts because navigating the public transport system was so frustrating when stairs were not an option (and I didn’t have all day to get somwhere).  The MTA keeps a list of accessible stations, but figuring out the best route to connect two endpoints using only these stations is not trivial.  
+I started working on this after having to spend several months on crutches following ankle surgery and spending way to much money on taxis, ubers, and lyfts because navigating the public transport system was so frustrating when stairs were not an option (and I didn’t have all day to get somwhere).  The MTA keeps a [list](http://web.mta.info/accessibility/stations.htm) of accessible stations, but figuring out the best route to connect two endpoints using only these stations is not trivial.  
 
 This is a work in progress to make a more user friendly version of the information found [here](http://web.mta.info/accessibility/stations.htm)
 
